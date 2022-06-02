@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-I am a student studying computer science and computer engineering
 ![137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5](https://user-images.githubusercontent.com/83631552/171694769-e3cb69c6-7bfb-41ac-8f7d-25990e9a52df.gif)
 
-Here are some ideas to get you started:
+I am a student studying computer science and computer engineering
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Rust and C++
