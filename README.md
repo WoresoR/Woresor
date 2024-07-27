@@ -3,4 +3,4 @@
 </div>
 <div align ="center">WoresoR</div>
 </h1>
-I am a highschool student studying computer science and cybersecurity
+I am a highschool graduate studying computer science and cybersecurity
